@@ -3,6 +3,9 @@
 We used Tableau Public to create vizualizations by using the NYC bikesharing data from August 2019. The goal to overcome with this analysis is to determine if it is a good investment to create a bikesharing in Des Moines.
 
 ## Results
+The following link are all the vizualisations:
+- https://public.tableau.com/app/profile/maria.palacio5060
+
 In tableu we found that there were a total of 2,344,224 records in august of 2019 were the majority are male with 1,530,272, the were 588,431 females and 225,521 unknown users. Also there were 1,900,359 subscribers and 443,865 costumers.
 
 <img width="368" alt="Screen Shot 2022-04-05 at 5 22 32 AM" src="https://user-images.githubusercontent.com/95391094/161723047-3bd2322f-83bc-4dee-baf5-a171a91f967f.png">
